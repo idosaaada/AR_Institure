@@ -4,3 +4,6 @@
 *.psds filter=lfs diff=lfs merge=lfs -text
 *.fbxs filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
+*.com.ptc.vuforia.engine-10.25.4 filter=lfs diff=lfs merge=lfs -text
+*.com.ptc.vuforia.engine-10.25.4.tgz filter=lfs diff=lfs merge=lfs -text
+AR[[:space:]]Project/Packages/com.ptc.vuforia.engine-10.25.4.tgz filter=lfs diff=lfs merge=lfs -text

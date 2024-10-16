@@ -1,0 +1,94 @@
+{
+    "questions": [
+      {
+        "question": "What materials are used in 3D printing?",
+        "answers": [
+          "Plastic",
+          "Glass",
+          "Wood",
+          "Stone"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "Which industry uses 3D printing extensively?",
+        "answers": [
+          "Agriculture",
+          "Fishing",
+          "Medicine",
+          "Banking"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What is the primary use of a 3D printer in medicine?",
+        "answers": [
+          "Surgical tools",
+          "Implants",
+          "Medications",
+          "Blood tests"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What is the first step in 3D printing?",
+        "answers": [
+          "Creating a model",
+          "Acquiring raw materials",
+          "Heating the printer",
+          "Quality check"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "How does a 3D printer help protect the environment?",
+        "answers": [
+          "Solar energy",
+          "Waste reduction",
+          "Water recycling",
+          "Green electricity"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "What does high precision mean in 3D printing?",
+        "answers": [
+          "High speed",
+          "Energy saving",
+          "Use of additional materials",
+          "Creation of complex objects"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "What is the difference between 3D printing and traditional manufacturing?",
+        "answers": [
+          "Material removal",
+          "High temperatures",
+          "Layered production",
+          "Producing products in different colors"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "What are the advantages of 3D printing in education?",
+        "answers": [
+          "Digital books",
+          "Reduced learning time",
+          "Transportation savings",
+          "Physical models"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "How do 3D printers assist in art?",
+        "answers": [
+          "Creating sculptures",
+          "Printing paintings",
+          "Digital music",
+          "3D videos"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+}

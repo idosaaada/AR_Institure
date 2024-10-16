@@ -1,0 +1,41 @@
+{
+  "cards": [
+    {																							
+      "concept": "Industry 4.0",
+      "explanation": "Industrial revolution with smart technologies"
+    },
+    {
+      "concept": "Internet of Things (IoT)",
+      "explanation": "Connecting devices to the internet for information sharing"
+    },
+    {
+      "concept": "Artificial Intelligence (AI)",
+      "explanation": "Technology that enables computers to learn and perform tasks"
+    },
+    {
+      "concept": "3D Printer",
+      "explanation": "Prints physical objects in layers"
+    },
+    {
+      "concept": "Engineering",
+      "explanation": "Developing technological solutions using science and mathematics"
+    },
+    {
+      "concept": "Virtual Reality (VR)",
+      "explanation": "Creating a virtual world"
+    },
+    {
+      "concept": "Engineer",
+      "explanation": "Designs, develops, and builds technological systems and products"
+    },
+    {
+      "concept": "Augmented Reality (AR)",
+      "explanation": "Adding virtual elements to the real world"
+    },
+    {
+      "concept": "Cloud Computing",
+      "explanation": "Storing and accessing data and services over the internet"
+    }						
+  ]
+
+}

@@ -1,0 +1,410 @@
+﻿{
+  "translations": [
+    {
+      "key": "Opener_Welcome",
+      "value": "Welcome to the Advanced Manufacturing Institute"
+    },
+    {
+      "key": "start_button",
+      "value": "Start"
+    },
+    {
+      "key": "Character_selection",
+      "value": "Choose a character"
+    },
+    {
+      "key": "Group_registration",
+      "value": "Registration of group members"
+    },
+    {
+      "key": "Save_button",
+      "value": "Save"
+    },
+    {
+      "key": "Group_name",
+      "value": "Enter a name for the group"
+    },
+    {
+      "key": "Player_names",
+      "value": "Enter the names of the group members"
+    },
+    {
+      "key": "Astronaut_puzzle",
+      "value": "I visit places people can only dream of, I can see the whole earth but I'm not a bird, I fly high in the sky but I'm not an airplane. Look for my model."
+    },
+    {
+      "key": "Groot_puzzle",
+      "value": "I will create a forest in a distant location. I am in a team with heroic friends and my strength is in nature and plants. Look for my model."
+    },
+    {
+      "key": "Minion_puzzle",
+      "value": "I'm small and yellow, I like bananas a lot. Works for a villain, but my heart is gold. Look for my model."
+    },
+    {
+      "key": "Superman_puzzle",
+      "value": "I come from a distant planet with superhuman powers. I fly in the skies and see through walls. By day, I'm a newspaper reporter, but by night, a true hero. Look for my model."
+    },
+    {
+      "key": "Model_1",
+      "value": "Liquid polymer printing technology. The layer solidifies using UV radiation."
+    },
+    {
+      "key": "Model_2",
+      "value": "Printing technology that provides high strength, rigidity, and low weight."
+    },
+    {
+      "key": "Model_3",
+      "value": "Printing technology that allows for the creation of parts with a glossy and smooth finish."
+    },
+    {
+      "key": "Model_4",
+      "value": "Printing technology using environmentally friendly plastic with a low printing temperature."
+    },
+    {
+      "key": "Batman_puzzle",
+      "value": "In the darkness of the night, I roam with a black cape and a fast car. In a secret cave, I weave my plans. Look for my model."
+    },
+    {
+      "key": "Plastic_free",
+      "value": "About 8 million tons of plastic enter the oceans each year, threatening marine life and damaging ecosystems. Recycling plastic can help reduce this problem."
+    },
+    {
+      "key": "Plastic_free1",
+      "value": "Recycling materials such as plastic, paper, and metal reduces the need for new production, thereby decreasing greenhouse gas emissions and air pollution."
+    },
+    {
+      "key": "Plastic_free2",
+      "value": "Recycling enables the reuse of resources such as water, wood, and metals, which reduces the need for mining, deforestation, and the consumption of additional natural resources."
+    },
+    {
+      "key": "Squirtle_puzzle",
+      "value": "I am a magical creature residing in a ball that is half red and half white. I am sent into battles by a brave trainer. Look for my model."
+    },
+    {
+      "key": "Recycling_tips",
+      "value": "Tips for the Beginner Recycler"
+    },
+    {
+      "key": "Tip_0",
+      "value": "<b>Tip One:</b> Set up a home recycling system. It is recommended to have two separate recycling bins."
+    },
+    {
+      "key": "Tip_1",
+      "value": "<b>Tip Two:</b> Look for a recycling symbol between 1 and 5 on most packaging, which indicates the type of material the packaging is made of."
+    },
+    {
+      "key": "Tip_2",
+      "value": "<b>Tip Three:</b> Find recycling options close to your home."
+    },
+    {
+      "key": "Tip_3",
+      "value": "<b>Tip Four:</b> Save excess plastic bags for your next grocery shopping."
+    },
+    {
+      "key": "Tip_4",
+      "value": "<b>Tip Five:</b> Integrate recycling into your daily routine. Good luck!"
+    },
+    {
+      "key": "End_text",
+      "value": "We hope you enjoyed! You are welcome to share your experience on social networks."
+    },
+    {
+      "key": "End_button",
+      "value": "Exit"
+    },
+    {
+      "key": "Popup_0_h",
+      "value": "<b>You have successfully registered!</b>"
+    },
+    {
+      "key": "Popup_0_c",
+      "value": "Continue to the next task"
+    },
+    {
+      "key": "Popup_1_h",
+      "value": "<b>Welcome to the Find the Model game!</b>"
+    },
+    {
+      "key": "Popup_1_c",
+      "value": "<b>Objective of the Game:</b> You need to solve a riddle, the solution of which is a 3D printed model.<br><br><b>How to Play:</b> Your task is to find the correct model and scan it using your camera.<br><br>After scanning the appropriate model, you will play a short game and then move on to the next stage.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_2_h_b",
+      "value": "<b>Speed Game</b>"
+    },
+    {
+      "key": "Popup_2_c_b",
+      "value": "<b>Objective of the Game:</b> Capture only the images related to 3D printing.<br><br><b>How to Play:</b> Click on every image that appears on the screen and is related to 3D printing.<br><br><b>Note:</b> Clicking on incorrect images will reduce your score. You need to accumulate 5 points to complete the game."
+    },
+    {
+      "key": "Popup_2_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_2_c_e",
+      "value": "<b>You have successfully completed the game!</b><br><br> Keep it up and move on to the next stage."
+    },
+    {
+      "key": "Popup_3_h_b",
+      "value": "<b>Find the Model!</b>"
+    },
+    {
+      "key": "Popup_3_c_b",
+      "value": "<b>Objective of the Task:</b> Solve the riddle and identify the 3D printed model at the institute.<br><br><b>How to Proceed:</b> After identifying the correct model, scan it using your camera.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_4_h_b",
+      "value": "<b>Memory Game</b>"
+    },
+    {
+      "key": "Popup_4_c_b",
+      "value": "<b>Objective of the Game:</b> Match each term with its definition.<br><br><b>How to Play:</b> Match identical pairs of cards by clicking on them.<br><br><b>Try to finish as quickly as possible!</b>"
+    },
+    {
+      "key": "Popup_4_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_4_c_e",
+      "value": "<b>You have successfully completed the game!</b><br><br> <b>Keep it up and move on to the next stage.</b>"
+    },
+    {
+      "key": "Popup_5_h_b",
+      "value": "<b>Find the Model!</b>"
+    },
+    {
+      "key": "Popup_5_c_b",
+      "value": "<b>Objective of the Task:</b> Solve the riddle and identify the 3D printed model at the institute.<br><br><b>How to Proceed:</b> After identifying the correct model, scan it using your camera.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_6_h_b",
+      "value": "<b>Trivia Game</b>"
+    },
+    {
+      "key": "Popup_6_c_b",
+      "value": "<b>Objective of the Game:</b> Answer all the questions correctly.<br><br><b>How to Play:</b> Answer as many trivia questions correctly as possible. Choose the correct answer from the 4 options."
+    },
+    {
+      "key": "Popup_6_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_6_c_e",
+      "value": "<b>You have successfully completed the game!</b><br><br> <b>Keep it up and move on to the next stage.</b>"
+    },
+    {
+      "key": "Popup_7_h_b",
+      "value": "<b>Find the Model!</b>"
+    },
+    {
+      "key": "Popup_7_c_b",
+      "value": "<b>Objective of the Task:</b> Solve the riddle and identify the 3D printed model at the institute.<br><br><b>How to Proceed:</b> After identifying the correct model, scan it using your camera.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_8_h_b",
+      "value": "<b>Materials Game</b>"
+    },
+    {
+      "key": "Popup_8_c_b",
+      "value": "<b>Game Objective:</b> Match each model with the material it is printed from.<br><br><b>How to Play:</b> Click on the model and the corresponding printing material.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_8_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_8_c_e",
+      "value": "<b>You successfully finished the game!</b><br><br> <b>Keep it up and move on to the next stage.</b>"
+    },
+    {
+      "key": "Popup_9_h_b",
+      "value": "<b>Find the Model!</b>"
+    },
+    {
+      "key": "Popup_9_c_b",
+      "value": "<b>Mission Objective:</b> Solve the puzzle and identify the 3D printed model in the institute.<br><br><b>How to Continue:</b> After identifying the correct model, scan it using your camera.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_10_h_b",
+      "value": "</b> Material Recycling </b>"
+    },
+    {
+      "key": "Popup_10_c_b",
+      "value": "<b>What to Do:</b> You need to click on each button to reveal the information segment.<br><br> After reading all the segments, you can move on to the next stage."
+    },
+    {
+      "key": "Popup_11_h_b",
+      "value": "<b>Find the Model!</b>"
+    },
+    {
+      "key": "Popup_11_c_b",
+      "value": "<b>Mission Objective:</b> Solve the puzzle and identify the 3D printed model in the institute.<br><br><b>How to Continue:</b> After identifying the correct model, scan it using your camera.<br><br><b>Good luck!</b>"
+    },
+    {
+      "key": "Popup_11_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_11_c_e",
+      "value": "<b>You found the final model!</b><br><br> You earned the right to proceed to the next stage."
+    },
+    {
+      "key": "Popup_12_h_b",
+      "value": "</b> Tips for Material Recycling </b>"
+    },
+    {
+      "key": "Popup_12_c_b",
+      "value": "<b>What to Do:</b> You need to click the green button next to each tip to reveal the next sentence.<br><br> After reading all the tips, you can move on to the next stage."
+    },
+    {
+      "key": "Popup_13_h_b",
+      "value": "</b> Material Recycling Game </b>"
+    },
+    {
+      "key": "Popup_13_c_b",
+      "value": "<b>Game Objective:</b> Place all the items in the correct recycling bins.<br><br><b>How to Play:</b> Drag each item to the appropriate recycling bin."
+    },
+    {
+      "key": "Popup_13_h_e",
+      "value": "<b>Well done!</b>"
+    },
+    {
+      "key": "Popup_13_c_e",
+      "value": "<b>You successfully finished all the games!</b><br><br>"
+    },
+    {
+      "key": "concept1",
+      "value": "Industry 4.0"
+    },
+    {
+      "key": "explanation1",
+      "value": "Industrial revolution with smart technologies"
+    },
+    {
+      "key": "concept2",
+      "value": "Internet of Things IoT"
+    },
+    {
+      "key": "explanation2",
+      "value": "Connecting devices to the internet for data sharing"
+    },
+    {
+      "key": "concept3",
+      "value": "Artificial Intelligence AI"
+    },
+    {
+      "key": "explanation3",
+      "value": "Technology that enables computers to learn and perform tasks"
+    },
+    {
+      "key": "concept4",
+      "value": "3D Printer"
+    },
+    {
+      "key": "explanation4",
+      "value": "Prints physical objects in layers"
+    },
+    {
+      "key": "concept5",
+      "value": "Engineering"
+    },
+    {
+      "key": "explanation5",
+      "value": "Developing technological solutions using science and mathematics"
+    },
+    {
+      "key": "concept6",
+      "value": "Virtual Reality VR"
+    },
+    {
+      "key": "explanation6",
+      "value": "Creating a virtual world"
+    },
+    {
+      "key": "concept7",
+      "value": "Engineer"
+    },
+    {
+      "key": "explanation7",
+      "value": "Designs, develops, and builds systems and technologies"
+    },
+    {
+      "key": "concept8",
+      "value": "Augmented Reality AR"
+    },
+    {
+      "key": "explanation8",
+      "value": "Adding virtual elements to the real world"
+    },
+    {
+      "key": "concept9",
+      "value": "Cloud Computing"
+    },
+    {
+      "key": "explanation9",
+      "value": "Storing and accessing data and services via the internet"
+    },
+    {
+      "key": "AstronautModel",
+      "value": "The scan was successful. Model name: Astronaut"
+    },
+    {
+      "key": "AstronautInfo",
+      "value": "A 3D printer is a device that produces objects by laying down layers of material according to a digital model. She builds the object layer by layer until it is complete."
+    },
+    {
+      "key": "Next_button",
+      "value": "Continue"
+    },
+    {
+      "key": "TrayAgain",
+      "value": "Try scanning again"
+    },
+    {
+      "key": "GrootModel",
+      "value": "The scan was successful. Model name: Mini Groot"
+    },
+    {
+      "key": "GrootInfo",
+      "value": "The 3D printing materials include different types such as plastic, metal and biomass, and each material is suitable for different needs according to the object's requirements, such as durability, flexibility and weight."
+    },
+    {
+      "key": "MinionModel",
+      "value": "The scan was successful. Model name: Love Minion"
+    },
+    {
+      "key": "MinionInfo",
+      "value": "3D printing technology is revolutionary in its ability to produce customized products with complex shapes and fine details, which cannot be produced by traditional methods, thus enabling innovation in design and production."
+    },
+    {
+      "key": "SupermanModel",
+      "value": "The scan was successful. Model name: Superman"
+    },
+    {
+      "key": "SupermanInfo",
+      "value": "The 3D printing process begins with a strict digital design, in which the designers create a computerized model in dedicated software. The printer translates the model into precise instructions, and builds the physical object layer by layer."
+    },
+    {
+      "key": "BatmanModel",
+      "value": "The scan was successful. Model name: Batman"
+    },
+    {
+      "key": "BatmanInfo",
+      "value": "3D printers excel at speed and accuracy, and are used to produce customized parts in industries such as automotive, electronics, and medicine."
+    },
+    {
+      "key": "SquirtleModel",
+      "value": "The scan was successful. Model name: Pokemon Squirtle"
+    },
+    {
+      "key": "SquirtleInfo",
+      "value": "The 3D printing technology is efficient in terms of material, reduces waste, lowers production costs and contributes to reducing the environmental impact."
+    },
+    {
+      "key": "next_button",
+      "value": "continue"
+    }
+  ]
+}
+
+

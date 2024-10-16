@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.5">
+        <ModelTarget name="headphone-holder" targetId="001af3554fd043f7ad595dc7a8c6fee1" version="14.0" toolVersion="v7.0.5" bbox="-0.043569 0.058616 -0.008043 0.043569 0.143245 0.039035" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="headphone-holder" assemblyId="8e5d14da255848d68ee4296a94fb5ad0">
+        <Part name="headphone-holder" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

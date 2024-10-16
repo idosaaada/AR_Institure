@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.4">
+        <ModelTarget name="Quad_Toothbrush_Holder" targetId="793c86921fd84b52b94b7573663d192f" version="14.0" toolVersion="v7.0.4" bbox="-0.063562 -0.054672 -0.000062 0.063562 0.054646 0.035612" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Quad_Toothbrush_Holder" assemblyId="c2ec6b79ace948019ba62501efc81f6e">
+        <Part name="Quad_Toothbrush_Holder" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

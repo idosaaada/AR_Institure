@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.5">
+        <ModelTarget name="Helmet" targetId="254cd2e043b441eaa1f3422513a8a410" version="14.0" toolVersion="v7.0.5" bbox="-0.107318 -0.074022 0.065803 0.107269 0.233668 0.277237" trackingMode="car" upVector="1.0 0.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Helmet" assemblyId="45789b6e23dd4aadac778550b32e804b">
+        <Part name="Helmet" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
